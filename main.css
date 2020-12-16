@@ -5,3 +5,16 @@ h1{
     letter-spacing: 10px;
     word-spacing: 20px;
 }
+footer{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background-color: black;
+    width: 100%;
+    display: block;
+    padding: 5px;
+}
+footer > img{
+    width: 40px;;
+    height: 40px;
+}
